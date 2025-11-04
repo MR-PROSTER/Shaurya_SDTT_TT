@@ -1,4 +1,4 @@
-# 🗓️ Timetable Generator
+# ela unnavu bro, lunch thinnava?
 
 A Python script to **generate academic timetables**, scheduling lectures, tutorials, labs, and self-study sessions.  
 Basket electives (B1–B4) are grouped in **fixed time slots** across all branches for a semester.
